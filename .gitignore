@@ -1,0 +1,16 @@
+venv/
+
+__pycache__/
+*.pyc
+*.pyo
+
+.env
+
+.DS_Store
+
+*.log
+*.tmp
+
+.vscode/
+.idea/
+*.sublime-workspace
